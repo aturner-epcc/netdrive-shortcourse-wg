@@ -16,7 +16,6 @@ such courses.
 
 Initial members:
 
-- Adrian Friday (Lancaster University)
 - Kirsty Pringle (SSI)
 - Liz Ing-Simmons (KCL)
 - Lorna Smith (EPCC)
@@ -25,6 +24,7 @@ Initial members:
 People to be kept informed of progress:
 
 - Martin Farley (UKRI)
+- Adrian Friday (Lancaster University)
 
 ### Objectives
 
